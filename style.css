@@ -4,7 +4,7 @@ body {
 }
 
 #conteudo {
-    background: #ff7a7a;
+    background: white;
     background-image: url('assets/heart.jpg');
     background-size: 50%;
     background-position: center;
